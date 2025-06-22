@@ -1,7 +1,6 @@
 
 __pycache__/
 *.pyc
-*.pt
 *.pth
 *.ipynb_checkpoints
 venv/
